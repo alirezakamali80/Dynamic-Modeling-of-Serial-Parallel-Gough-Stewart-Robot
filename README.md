@@ -16,7 +16,7 @@ Each moving stage has six cylinder-piston actuators, with universal joints at th
 
 <p align="center">
   <img src="img/GS_Config.png" alt="Attachment geometry of one Gough–Stewart stage" width="430">
-  <img src="verticalMap.pdf" alt="Diagram of the recursive modeling workflow" width="430">
+  <img src="verticalMap.png" alt="Diagram of the recursive modeling workflow" width="430">
 </p>
 
 The **earlier thesis and conference study** examined 2-, 6-, and 10-stage robots under spiral, vertical, and lemniscate motions. The **follow-on IJRR manuscript** extends the formulation to BIP reduction and evaluates 2- and 6-stage examples. These studies use different analyses and result sets; the figures and summary CSV in this repository belong to the earlier study.
